@@ -49,27 +49,15 @@ const saad = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💎 Featured Projects
+## 🌐 Live Websites
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/%F0%9F%92%8E_MY_PORTFOLIO-VISIT_NOW-FFD700?style=for-the-badge&labelColor=0d1117" /></a>
+
+</div>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 ExportEase
-Export guidance platform helping Pakistani small businesses go global.
-<br/><br/>
-`PHP` `MySQL` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 TradeSphere AI
-Global trade intelligence SaaS with analytics & secure workflows.
-<br/><br/>
-`PHP` `MySQL` `SaaS`
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -77,6 +65,30 @@ Global trade intelligence SaaS with analytics & secure workflows.
 Luxury perfume brand website, smooth SPA with premium animations.
 <br/><br/>
 `Vite` `Vanilla JS` `GSAP`
+<br/><br/>
+<a href="ZIVORA_LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-FFD700?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 ExportEase
+Export guidance platform helping Pakistani small businesses go global.
+<br/><br/>
+`PHP` `MySQL` `JavaScript`
+<br/><br/>
+<a href="EXPORTEASE_LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-FFD700?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 TradeSphere AI
+Global trade intelligence SaaS with analytics & secure workflows.
+<br/><br/>
+`PHP` `MySQL` `SaaS`
+<br/><br/>
+<a href="TRADESPHERE_LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-FFD700?style=flat-square&logo=googlechrome&logoColor=black" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -85,16 +97,8 @@ Luxury perfume brand website, smooth SPA with premium animations.
 Platform for pet owners, vets, shelters & admins.
 <br/><br/>
 `PHP 8` `PDO` `Bootstrap`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎌 Fan Hub Plus
-Fandom universe web app: Anime, Gaming, Movies, TV, K-Pop, Comics, Manga & Cosplay.
 <br/><br/>
-`Web App` `Community` `Multi-category`
+<a href="FURSHIELD_LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-FFD700?style=flat-square&logo=googlechrome&logoColor=black" /></a>
 
 </td>
 </tr>
@@ -130,15 +134,6 @@ Fandom universe web app: Anime, Gaming, Movies, TV, K-Pop, Comics, Manga & Cospl
 <img src="https://img.shields.io/badge/Design-Dark_%26_Premium-302b63?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Mission-Real_Impact-01411C?style=for-the-badge&labelColor=0d1117" />
 
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saadsul32-oss/saadsul32-oss/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/saadsul32-oss/saadsul32-oss/output/github-snake.svg" />
-</picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
