@@ -1,71 +1,29 @@
-# 👋 Hi, I'm Saad
+<h1 align="center">👋 Hi, I'm Saad</h1>
 
-### BeyonDev | Web Developer & Digital Solutions
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=BeyonDev+%7C+Web+Developer;PHP+%7C+MySQL+%7C+JavaScript;Building+clean+%26+functional+web+apps" />
+</p>
 
-I’m a Web Developer focused on building **clean, functional and user-friendly websites and web applications**.
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,vite,threejs,bootstrap,git,github" />
+</p>
 
-I work with **PHP, MySQL, HTML, CSS and JavaScript**, along with Microsoft Office tools for professional documentation and presentations.
+### 🚀 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| **ExportEase** | Export guidance platform for Pakistani small businesses | PHP, MySQL |
+| **TradeSphere AI** | Global trade intelligence SaaS | PHP, MySQL |
+| **ZIVORA** | Luxury perfume brand website | Vite, JS |
+| **FurShield** | Pet owners, vets & shelters platform | PHP, PDO, Bootstrap |
 
----
+### 📊 GitHub Stats
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadsul32-oss&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsul32-oss&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 💻 What I Do
-
-* 🌐 Website Development
-* 🖥️ Web Applications
-* 🗄️ Database Development with MySQL
-* 🎨 UI/UX & Responsive Interfaces
-* 📄 Microsoft Office — Word, Excel & PowerPoint
-* ⚙️ Digital Solutions
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-* HTML5
-* CSS3
-* JavaScript
-
-**Backend**
-
-* PHP
-
-**Database**
-
-* MySQL
-
-**Tools**
-
-* Git & GitHub
-* Microsoft Word
-* Microsoft Excel
-* Microsoft PowerPoint
-
----
-
-## 🚀 Currently Working On
-
-Building and improving **websites, web applications and digital solutions** while expanding my development skills through practical projects.
-
----
-
-## 📌 Featured Projects
-
-I’m building projects that focus on real-world functionality, clean interfaces and practical solutions.
-
-> More projects coming soon.
-
----
-
-## 📫 Connect With Me
-
-**BeyonDev — Web & Digital Solutions**
-
-🌐 Portfolio: *Coming Soon*
-💼 LinkedIn: *Coming Soon*
-📧 Email: *Add your email here*
-
----
-
-### ⚡ Build. Create. Beyond.
+### 📫 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
