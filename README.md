@@ -53,7 +53,7 @@ const saad = {
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/%F0%9F%92%8E_MY_PORTFOLIO-VISIT_NOW-FFD700?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://portfolio-lime-two-hhgq3lr5su.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%92%8E_MY_PORTFOLIO-VISIT_NOW-FFD700?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
@@ -142,10 +142,9 @@ Platform for pet owners, vets, shelters & admins.
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_WHATSAPP_LINK"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://portfolio-lime-two-hhgq3lr5su.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/saad-sultan-29b80340b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saadsul32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
