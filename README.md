@@ -115,16 +115,21 @@ Fandom universe web app: Anime, Gaming, Movies, TV, K-Pop, Comics, Manga & Cospl
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadsul32-oss&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/FFD700/saadsul32-oss" width="100%" alt="contributions" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Trophies
+## 🏆 Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saadsul32-oss&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+<img src="https://img.shields.io/badge/Projects-5+_Shipped-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-PHP_%26_MySQL-777BB4?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Design-Dark_%26_Premium-302b63?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Mission-Real_Impact-01411C?style=for-the-badge&labelColor=0d1117" />
+
 </div>
 
 ## 🐍 Contribution Snake
