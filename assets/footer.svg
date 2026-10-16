@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="100%"><defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1440"/><stop offset=".5" stop-color="#10312a"/><stop offset="1" stop-color="#0b1f1a"/></linearGradient><linearGradient id="gd" x1="0" x2="1"><stop offset="0" stop-color="#fff1a8"/><stop offset="1" stop-color="#FFD700"/></linearGradient></defs>
+<rect width="1200" height="180" fill="url(#b)"/><rect width="1200" height="4" fill="url(#gd)"/>
+<text x="600" y="80" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="url(#gd)">Beyond Code.</text>
+<text x="600" y="118" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" letter-spacing="4" fill="#f3ecdc">DESIGN  ·  DEVELOP  ·  DEPLOY</text>
+<text x="600" y="152" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" fill="#9fb5ab">© 2026 BeyonDev · Built by Saad Sultan · Karachi, Pakistan</text></svg>
